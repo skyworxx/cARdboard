@@ -1,8 +1,6 @@
-# cARdboard AR
+# cARdboard AR - Open Source AR headset
 # Created by Mark Schramm
 # www.Mark-Schramm.com
-
-cARdboard AR - Open Source AR headset
 
 ![title image](http://i.imgur.com/oqWcStS.jpg)
 
