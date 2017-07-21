@@ -16,8 +16,8 @@ The idea behind cARdboard is that the phone camera still faces forward and can b
 # Material Required
 - 1 large sheet of Cardboard. Other than scrap cardboard, the art supply or crafts store is a good place to find large sheets of sturdy cardboard.
 - 150x75mm tinted acrylic sheet. You can get them at your local hardware store. The darker the tint, the better, but it has to be see through
-- 150x75mm mirror. You can find 75x75mm mirrors at your art supply or craft store easily. (FOr rference, I used these: http://riotstores.com.au/item/142346-craft-line-mirror-square-75cm-2pc-pkg.html )
-- 2 75x75mm fresnel lenses with 3 or 4 times magnification. These are hard to find. I used credit card size magnifiers from the office supply store. They are not tall enough, but it'll work. (For Reference, I used these: https://www.officeworks.com.au/shop/officeworks/p/helix-mini-magnifying-sheet-ja0352930#!features )
+- 150x75mm mirror. You can find 75x75mm mirrors at your art supply or craft store easily. (For reference, I used these: http://riotstores.com.au/item/142346-craft-line-mirror-square-75cm-2pc-pkg.html )
+- 2 75x75mm fresnel lenses with 3 or 4 times magnification. These are hard to find. I used credit card size magnifiers from the office supply store. They are not tall enough, but it'll work. (For reference, I used these: https://www.officeworks.com.au/shop/officeworks/p/helix-mini-magnifying-sheet-ja0352930#!features )
 - Glue (for the tabs). You can also cut off the tabs and just use sticky tape to hold it together.
 
 
