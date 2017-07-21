@@ -9,8 +9,7 @@ cARdboard AR - Open Source AR headset
 
 cARdboard AR is an open source AR headset in the style of Google's Cardboard.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Bh7JTSm_Fs" frameborder="0" allowfullscreen></iframe>
-
+![gif](cARdboardAR3.gif?raw=true "Title")
 
 It requires two fresnel lenses with 3 or 4 times magnification, ideally in the size of 75x75mm as well as one mirror (150x75mm) and one tinted acrylic sheet (150x75mm).
 
