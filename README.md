@@ -4,7 +4,7 @@
 
 cARdboard AR - Open Source AR headset
 
-[title image](http://i.imgur.com/oqWcStS.jpg)
+![title image](http://i.imgur.com/oqWcStS.jpg)
 
 
 cARdboard AR is an open source AR headset in the style of Google's Cardboard.
