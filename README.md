@@ -9,9 +9,7 @@
 
 ![gif](cARdboardAR3.gif?raw=true "Title")
 
-It requires two fresnel lenses with 3 or 4 times magnification, ideally in the size of 75x75mm as well as one mirror (150x75mm) and one tinted acrylic sheet (150x75mm).
-
-The idea behind this cheap AR headset is that the phone camera still faces forward and can be used for tracking. It should be compatible with ARKit and Vuforia and any other phone camera based tracking, but because of the offset it won't be directly compatible with the standard examples. Also very few standard examples render stereoscopic. See "Software" for mroe information.
+The idea behind cARdboard is that the phone camera still faces forward and can be used for tracking. It should be compatible with ARKit and Vuforia and any other phone camera based tracking, but because of the offset it won't be directly compatible with the standard examples. Also very few standard examples render stereoscopic. See "Software" for mroe information.
 
 
 
