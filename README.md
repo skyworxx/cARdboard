@@ -7,7 +7,7 @@ cARdboard AR - Open Source AR headset
 ![title image](http://i.imgur.com/oqWcStS.jpg)
 
 
-cARdboard AR is an open source AR headset in the style of Google's Cardboard.
+# cARdboard AR is an open source AR headset in the style of Google's Cardboard.
 
 ![gif](cARdboardAR3.gif?raw=true "Title")
 
@@ -17,7 +17,7 @@ The idea behind this cheap AR headset is that the phone camera still faces forwa
 
 
 
-#Material Required
+# Material Required
 - 1 large sheet of Cardboard. Other than scrap cardboard, the art supply or crafts store is a good place to find large sheets of sturdy cardboard.
 - 150x75mm tinted acrylic sheet. You can get them at your local hardware store. The darker the tint, the better, but it has to be see through
 - 150x75mm mirror. You can find 75x75mm mirrors at your art supply or craft store easily.
@@ -25,7 +25,7 @@ The idea behind this cheap AR headset is that the phone camera still faces forwa
 - Glue (for the tabs). You can also cut off the tabs and just use sticky tape to hold it together.
 
 
-#How To Build cARdboard
+# How To Build cARdboard
 
 ![template](http://i.imgur.com/NdNckSA.png)
 
@@ -41,7 +41,7 @@ The idea behind this cheap AR headset is that the phone camera still faces forwa
 
 
 
-#Software
+# Software
 For Vuforia, you can read more about rendering stereoscopic here:
 https://library.vuforia.com/articles/Training/Vuforia-for-Digital-Eyewear
 Follow the informationr regarding Video See-Through and just disable video background rendering.
