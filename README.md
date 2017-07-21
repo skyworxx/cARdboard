@@ -27,6 +27,8 @@ The idea behind this cheap AR headset is that the phone camera still faces forwa
 
 ![template](http://i.imgur.com/NdNckSA.png)
 
+0. download the latest template from https://github.com/skyworxx/cARdboard
+
 1. Print out the template (in one or several parts), transfer it onto a piece thin piece of cardboard and cut out the shape.  Alternately, you could lasercut the template directly out of cardboard.
 
 2. Carve the lines (makes folding easier)
