@@ -9,7 +9,7 @@
 
 ![gif](cARdboardAR3.gif?raw=true "Title")
 
-The idea behind cARdboard is that the phone camera still faces forward and can be used for tracking. It should be compatible with ARKit and Vuforia and any other phone camera based tracking, but because of the offset it won't be directly compatible with the standard examples. Also very few standard examples render stereoscopic. See "Software" for mroe information.
+The idea behind cARdboard is that the phone camera still faces forward and can be used for tracking. It should be compatible with ARKit and Vuforia and any other phone camera based tracking, but because of the offset it won't be directly compatible with the standard examples. Also very few standard examples render stereoscopic. See "Software" for more information.
 
 
 
